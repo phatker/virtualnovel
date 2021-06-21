@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'pyvirtualnovel'
+project = 'pynovel'
 copyright = '2021, phatker VN'
 author = 'phatker VN'
 
